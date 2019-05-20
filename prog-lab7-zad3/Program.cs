@@ -13,7 +13,6 @@ namespace prog_lab7_zad3
             // выбор действия
             int N = 0;
             Square[] newSquare = new Square[N];
-
             while (true)
             {
                 Console.WriteLine("Выберите действие: 1 - добавить квадрат, 2 - сортировать, 3 - выход");
